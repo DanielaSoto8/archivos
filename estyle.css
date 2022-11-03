@@ -1,0 +1,24 @@
+body{
+    background-image:url(https://cdn.colombia.com/gastronomia/2011/08/25/pizza-margarita-3684.webp);
+    background-size: cover;
+}
+.titulo-1{
+    background-color: aqua;
+    color: bisque;
+    font: 80px;
+}
+.button{
+    color: rgb(25, 0, 255);
+    background-color:white;
+    font-size: 20px;
+    font-weight: 50;
+
+}
+.body-new{
+    background-image: url(https://as01.epimg.net/deporteyvida/imagenes/2017/10/11/portada/1507718210_362650_1507718452_noticia_normal_recorte1.jpg);
+}
+.button2{
+    color: blue;
+    background-color: blueviolet;
+
+}
